@@ -1,0 +1,68 @@
+Tôi là giáo viên Tin học và tôi cần thiết kế một bài giảng PowerPoint từ kế hoạch bài dạy.
+Hãy giúp tôi chuyển nội dung kế hoạch bài dạy thành bộ slide PowerPoint hoàn chỉnh phục vụ dạy học trên lớp, lựa chọn các màu sáng khi làm slide.
+
+Yêu cầu quan trọng:
+
+Slide phải có cấu trúc rõ ràng theo tiến trình dạy học, gồm các phần sau:
+Slide 1: Chào mừng các em đến với buổi học ngày hôm nay
+Slide 2: Trang bìa
+
+Tên bài
+
+Môn học
+
+Lớp
+
+Tên giáo viên (để trống)
+
+Năm học
+
+
+
+Slide 3: Nội dung bài học (sơ đồ hoặc danh sách) gồm các hoạt động trong mục hoạt động hình thành kiến thức
+Sau đó lần lượt thiết kế slide theo từng hoạt động:
+Hoạt động 1: Khởi động
+Hoạt động 2: Hình thành kiến thức
+Nội dung 2.1
+Nội dung 2.2
+Nội dung 2.3
+Hoạt động 3: Luyện tập
+Hoạt động 4: Vận dụng
+Với mỗi nội dung lớn (ví dụ Hoạt động 2.1, 2.2, 2.3) phải có:
+1 slide tiêu đề của nội dung
+Ví dụ:
+"Nội dung 2.1:..."
+Sau đó là các slide chi tiết cho nội dung đó.
+Các bước hướng dẫn thao tác phải được trình bày rõ ràng, dễ nhìn, ví dụ:
+Slide hướng dẫn thao tác nên trình bày theo dạng:
+Các bước thực hiện:
+Bước 1: …
+Bước 2: …
+Bước 3: …
+Bước 4: …
+Không viết đoạn văn dài.
+Slide phải phù hợp để trình chiếu khi giảng dạy:
+Nội dung ngắn gọn
+Dễ đọc
+Dạng gạch đầu dòng
+Mỗi slide tối đa 5–6 dòng
+Các slide hoạt động lớp học phải có:
+Câu hỏi thảo luận
+Yêu cầu nhiệm vụ học sinh
+Gợi ý trả lời
+Hoạt động luyện tập phải có:
+Slide giao nhiệm vụ
+Slide hiển thị phiếu học tập
+Hoạt động vận dụng phải có:
+Tình huống
+Yêu cầu nhiệm vụ nhóm
+Kết thúc bài phải có các slide:
+Tổng kết bài học
+Câu hỏi củng cố
+Dặn dò
+Hãy trình bày kết quả theo dạng:
+Slide 1: …
+Slide 2: …
+Slide 3: …
+
+Với nội dung chi tiết của từng slide.
